@@ -1,10 +1,23 @@
-# formation
-blal
-<<<<<<< HEAD
+GitGit
+BAAAAAAAAA
 
-hello world
-=======
+
 handson git
 
 Seb RulZ
->>>>>>> d8c4f20d43639cbf5f8b5150ae02b51561ee1540
+
+LOL
+# formation
+blal
+
+test test
+
+handson git
+
+Seb RulZ
+hello world
+
+handson git
+
+Seb RulZ
+
