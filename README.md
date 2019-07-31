@@ -1,3 +1,13 @@
+
+Bj
+B
+B
+B
+B
+
+C
+
+<<<<<<< HEAD
 BAAAAAAAAA
 # formation
 
@@ -8,3 +18,11 @@ Seb RulZ
 
 
 LOL
+=======
+
+Younouss
+
+A
+A
+# formation
+>>>>>>> ypatel
