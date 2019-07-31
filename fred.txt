@@ -1,2 +1,2 @@
- ceci est mon fichier, Fred
+ ceci est mon fichier modifié, Fred
 
